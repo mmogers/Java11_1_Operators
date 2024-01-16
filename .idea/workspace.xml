@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf0d127c-b454-496e-9018-de0da4eea793" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java11_1_4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UnaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UnaryOperatorMore.java" afterDir="false" />
+    <list default="true" id="cf0d127c-b454-496e-9018-de0da4eea793" name="Changes" comment="Unary operations">
+      <change afterPath="$PROJECT_DIR$/src/BinaryOperatorExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryOperatorExamples2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoreOddities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorOddities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TernaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,25 +44,57 @@
     "onboarding.tips.debug.path": "C:/Users/Marina/dev/Java11_1_4/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UnaryOperatorMore">
-    <configuration name="UnaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UnaryOperator" />
+  <component name="RunManager" selected="Application.MoreOddities">
+    <configuration name="BinaryOperatorExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinaryOperatorExamples" />
       <module name="Java11_1_4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnaryOperatorMore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UnaryOperatorMore" />
+    <configuration name="BinaryOperatorExamples2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinaryOperatorExamples2" />
       <module name="Java11_1_4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MoreOddities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoreOddities" />
+      <module name="Java11_1_4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorOddities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperatorOddities" />
+      <module name="Java11_1_4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TernaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TernaryOperator" />
+      <module name="Java11_1_4" />
+      <option name="PROGRAM_PARAMETERS" value="c" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MoreOddities" />
+      <item itemvalue="Application.OperatorOddities" />
+      <item itemvalue="Application.BinaryOperatorExamples" />
+      <item itemvalue="Application.BinaryOperatorExamples2" />
+      <item itemvalue="Application.TernaryOperator" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UnaryOperatorMore" />
-        <item itemvalue="Application.UnaryOperator" />
+        <item itemvalue="Application.MoreOddities" />
+        <item itemvalue="Application.OperatorOddities" />
+        <item itemvalue="Application.TernaryOperator" />
+        <item itemvalue="Application.BinaryOperatorExamples2" />
+        <item itemvalue="Application.BinaryOperatorExamples" />
       </list>
     </recent_temporary>
   </component>
@@ -78,7 +107,20 @@
       <option name="presentableId" value="Default" />
       <updated>1705326489279</updated>
     </task>
+    <task id="LOCAL-00001" summary="Unary operations">
+      <option name="closed" value="true" />
+      <created>1705327394048</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705327394048</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Unary operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unary operations" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
